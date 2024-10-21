@@ -4,7 +4,7 @@ Hello! I'm passionate about learning and exploring various fields in technology.
 
 ### About Me
 - 🌱 Experienced Sofware Developer in **C#**, **.NET**.
-- 💻 Enjoy building software solutions that are practical and scalable.
+- 💻 Enjoy building software solutions that are practical and scalable and coffee ☕.
 - 🎯 My approach focuses on writing clean, maintainable code while staying up-to-date with best practices.
 - 👥 Open to collaboration and exchanging ideas with other developers.
 
